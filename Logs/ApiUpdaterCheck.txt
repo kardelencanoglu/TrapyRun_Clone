@@ -1,0 +1,60 @@
+[api-updater (non-obsolete-error-filter)] 30.08.2021 11:17:31 : Starting C:/Users/user/Desktop/Unity/2020.3.15f2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 709,5992ms
+moved types parse time: 109ms
+candidates parse time : 2ms
+C# parse time         : 485ms
+candidates check time : 87ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 31.08.2021 01:56:13 : Starting C:/Users/user/Desktop/Unity/2020.3.15f2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 354,9502ms
+moved types parse time: 170ms
+candidates parse time : 3ms
+C# parse time         : 687ms
+candidates check time : 142ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 31.08.2021 01:56:31 : Starting C:/Users/user/Desktop/Unity/2020.3.15f2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 649,228ms
+moved types parse time: 233ms
+candidates parse time : 4ms
+C# parse time         : 924ms
+candidates check time : 220ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 31.08.2021 17:01:41 : Starting F:/yedek/Yeni klasör (2)/Yeni klasör (3)/2020.3.11f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2003,5997ms
+moved types parse time: 110ms
+candidates parse time : 1ms
+C# parse time         : 1172ms
+candidates check time : 62ms
+console write time    : 11ms
+
+[api-updater (non-obsolete-error-filter)] 31.08.2021 17:53:24 : Starting F:/yedek/Yeni klasör (2)/Yeni klasör (3)/2020.3.11f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2472,504ms
+moved types parse time: 55ms
+candidates parse time : 1ms
+C# parse time         : 192ms
+candidates check time : 30ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 31.08.2021 17:58:51 : Starting F:/yedek/Yeni klasör (2)/Yeni klasör (3)/2020.3.11f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 198,2922ms
+moved types parse time: 56ms
+candidates parse time : 1ms
+C# parse time         : 191ms
+candidates check time : 31ms
+console write time    : 0ms
+
